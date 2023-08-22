@@ -1,0 +1,14 @@
+h1{
+     color: red ;
+     background-color: grey;
+     text-align: center;
+     width: 40%;
+}
+p{
+   text-decoration: underline;
+   text-decoration-style: double;
+   line-height: 1.5;
+   text-align: justify;
+   word-spacing: 10px;
+   font-family: 'Rubik', sans-serif;
+}
